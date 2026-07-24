@@ -6,7 +6,7 @@ Olá, Seja Bem-Vindo!!
 
 
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=150px height=150px  />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width=75px height=75px  />
  
           
           
