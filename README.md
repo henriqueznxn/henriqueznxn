@@ -1,4 +1,6 @@
-## Hi there 👋
+Olá, Seja Bem-Vindo!!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6BFF5D&background=FF000000&center=true&vCenter=true&width=435&lines=Henrique+de+Sousa+Lima">
 
 <!--
 **henriqueznxn/henriqueznxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
