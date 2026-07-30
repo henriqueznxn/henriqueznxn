@@ -38,3 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" title="JavaScript"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>&nbsp;
 </p>
+
+<h2>🐍 Minhas contribuições</h2>
+
+<p>
+  <img src="https://github.com/henriqueznxn/henriqueznxn/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
