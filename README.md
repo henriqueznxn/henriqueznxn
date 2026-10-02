@@ -10,7 +10,7 @@
 
 <ul>
   <li>Curso de <strong>Front-end</strong> pelo <strong>SENAI</strong>.</li>
-  <li>Atualmente cursando o <strong>Técnico em Análise e Desenvolvimento de Sistemas</strong> pelo <strong>SENAI</strong>.</li>
+  <li>Atualmente cursando o <strong>Técnico em Desenvolvimento de Sistemas</strong> pelo <strong>SENAI</strong>.</li>
 </ul>
 
 <h2>💻 Interesses</h2>
